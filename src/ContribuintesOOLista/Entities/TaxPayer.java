@@ -1,4 +1,4 @@
-package Entities;
+package ContribuintesOOLista.Entities;
 
 public class TaxPayer {
     private double salaryIncome;

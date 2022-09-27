@@ -1,6 +1,7 @@
-package Application;
+package ContribuintesOOLista.Application;
 
-import Entities.TaxPayer;
+import ContribuintesOOLista.Entities.TaxPayer;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
