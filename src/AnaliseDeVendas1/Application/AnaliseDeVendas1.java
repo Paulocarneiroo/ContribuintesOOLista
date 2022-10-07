@@ -13,8 +13,8 @@ public class AnaliseDeVendas1 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
-        //System.out.println("Enter file path: ");
-        String path = "D:\\JAVA-PROJETOS\\base-de-dados.csv";
+        System.out.println("Enter file path: ");
+        String path = sc.nextLine();
 
         List<Sale> list = new ArrayList<>();
 
