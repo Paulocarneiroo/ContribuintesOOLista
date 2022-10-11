@@ -1,4 +1,4 @@
-package AnaliseDeVendas1.Entities;
+package AnaliseDeVendas2.Entities;
 
 public class Sale {
     private Integer month;
